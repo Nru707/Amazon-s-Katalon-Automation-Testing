@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_category_Element_test_case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21a9560f-1785-437a-9a3e-1bb9a99169c8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fad583a2-b7e3-483d-85cc-51458d0020e6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DDT_category_item_test_case/DDT_Amazon_Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fad583a2-b7e3-483d-85cc-51458d0020e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>category</value>
+      <variableId>9d53d568-1110-4b96-b8f5-5a89f986a3e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fad583a2-b7e3-483d-85cc-51458d0020e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item</value>
+      <variableId>be874447-57ec-4c1d-9fee-2f9c5c346f18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d53d568-1110-4b96-b8f5-5a89f986a3e9</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be874447-57ec-4c1d-9fee-2f9c5c346f18</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>
