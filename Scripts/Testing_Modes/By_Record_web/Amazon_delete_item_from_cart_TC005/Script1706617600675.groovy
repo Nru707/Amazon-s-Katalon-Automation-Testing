@@ -17,3 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.amazon.com/')
+
+WebUI.setText(findTestObject('Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com. Spend less. Smile more/input_field-keywords'), 
+    'chemistry book')
+
+WebUI.click(findTestObject('Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button'))
+
+WebUI.click(findTestObject('Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com  chemistry book/span_Chemistry Made Easy An Illustrated Stu_153de6'))
+
+WebUI.click(findTestObject('Amazon_add_to_cart_TC004/Page_Amazon.com AP Chemistry Premium, 2024 _35f007/input_submit.add-to-cart'))
+
+WebUI.click(findTestObject('Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com Shopping Cart/a_Go to Cart'))
+
+WebUI.click(findTestObject('Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com Shopping Cart/input_submit.delete.8bc2c0f9-b1cf-4a72-854f_3b8889'))
+
+WebUI.closeBrowser()
+

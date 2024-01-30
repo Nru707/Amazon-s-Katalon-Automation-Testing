@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Amazon_item_search_TC003_testsuite/test_suites</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Amazon_item_search_testsuite/Amazon_item_search_TC003_testsuites</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Amazon_add_to_cart_TC004_testsuites/Test Suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Amazon_add_to_cart_testsuites/Amazon_add_to_cart_TC004_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Amazon_login_TC002_testSuite/Test Suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Amazon_login_testSuite/Amazon_login_TC002_TesTSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

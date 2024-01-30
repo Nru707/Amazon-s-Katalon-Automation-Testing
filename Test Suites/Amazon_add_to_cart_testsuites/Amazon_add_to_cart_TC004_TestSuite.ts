@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite</name>
+   <name>Amazon_add_to_cart_TC004_TestSuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>be4da312-b17c-4d6c-85bd-d1cbf7b9e680</testSuiteGuid>
+   <testSuiteGuid>36840258-774a-402b-987c-7f8fbbeb1b97</testSuiteGuid>
    <testCaseLink>
-      <guid>38a0ccdd-fe35-46a0-9915-deaf8a68d5e5</guid>
+      <guid>65b07b16-84ed-4a73-9d8a-5ed5fd91c420</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Testing_Modes/By_Record_web/Amazon_login_TC_002</testCaseId>
+      <testCaseId>Test Cases/Testing_Modes/By_Record_web/Amazon_add_to_cart_TC004</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
