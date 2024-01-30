@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite,Chrome 120.0.0.0,,,30-01-2024 18:44:45,30-01-2024 18:45:07,22.163s,PASSED
+,,,,,,,
+Test Cases/Testing_Modes/By_Record_web/Amazon_login_TC_002,Chrome 120.0.0.0,,,30-01-2024 18:44:45,30-01-2024 18:45:07,21.945s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,30-01-2024 18:44:45,30-01-2024 18:44:49,3.372s,PASSED
+"navigateToUrl(""https://www.amazon.com"")",Chrome 120.0.0.0,,,30-01-2024 18:44:49,30-01-2024 18:44:50,1.320s,PASSED
+"click(findTestObject(""Object Repository/Amazon_login_TC_002/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 120.0.0.0,,,30-01-2024 18:44:50,30-01-2024 18:45:01,11.005s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_login_TC_002/Page_Amazon Sign-In/input_email""), ""nru08028@gmail.com"")",Chrome 120.0.0.0,,,30-01-2024 18:45:01,30-01-2024 18:45:03,1.702s,PASSED
+"click(findTestObject(""Object Repository/Amazon_login_TC_002/Page_Amazon Sign-In/inputcontinue""))",Chrome 120.0.0.0,,,30-01-2024 18:45:03,30-01-2024 18:45:05,2.386s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_login_TC_002/Page_Amazon Sign-In/input_password""), ""G74V49Pg4522B1vm99sENQ=="")",Chrome 120.0.0.0,,,30-01-2024 18:45:05,30-01-2024 18:45:06,1.009s,PASSED
+"click(findTestObject(""Object Repository/Amazon_login_TC_002/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 120.0.0.0,,,30-01-2024 18:45:06,30-01-2024 18:45:07,0.491s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,30-01-2024 18:45:07,30-01-2024 18:45:07,0.362s,PASSED

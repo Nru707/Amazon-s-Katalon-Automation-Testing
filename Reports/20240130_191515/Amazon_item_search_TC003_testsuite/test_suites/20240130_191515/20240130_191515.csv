@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test_suites,Chrome 120.0.0.0,,,30-01-2024 19:15:29,30-01-2024 19:16:06,37.780s,PASSED
+,,,,,,,
+Test Cases/Testing_Modes/By_Record_web/Amazon_item_search_TC003,Chrome 120.0.0.0,,,30-01-2024 19:15:29,30-01-2024 19:16:06,37.574s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,30-01-2024 19:15:29,30-01-2024 19:15:31,2.151s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 120.0.0.0,,,30-01-2024 19:15:31,30-01-2024 19:15:33,2.135s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""chemistry book"")",Chrome 120.0.0.0,,,30-01-2024 19:15:33,30-01-2024 19:15:49,15.413s,PASSED
+"click(findTestObject(""Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,30-01-2024 19:15:49,30-01-2024 19:16:06,17.257s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,30-01-2024 19:16:06,30-01-2024 19:16:06,0.355s,PASSED

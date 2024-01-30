@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite,Firefox 122.0,,,30-01-2024 19:22:17,30-01-2024 19:23:22,1m - 5.314s,PASSED
+,,,,,,,
+Test Cases/Testing_Modes/By_Record_web/Amazon_add_to_cart_TC004,Firefox 122.0,,,30-01-2024 19:22:17,30-01-2024 19:23:22,1m - 4.913s,PASSED
+"openBrowser("""")",Firefox 122.0,,,30-01-2024 19:22:18,30-01-2024 19:22:26,8.348s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 122.0,,,30-01-2024 19:22:26,30-01-2024 19:22:28,1.882s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_add_to_cart_TC004/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""chemistry book"")",Firefox 122.0,,,30-01-2024 19:22:28,30-01-2024 19:22:37,8.832s,PASSED
+"click(findTestObject(""Object Repository/Amazon_add_to_cart_TC004/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Firefox 122.0,,,30-01-2024 19:22:37,30-01-2024 19:22:45,7.797s,PASSED
+"click(findTestObject(""Object Repository/Amazon_add_to_cart_TC004/Page_Amazon.com  chemistry book/span_AP Chemistry Premium, 2024 6 Practice _66fc73""))",Firefox 122.0,,,30-01-2024 19:22:45,30-01-2024 19:23:06,21.252s,PASSED
+"click(findTestObject(""Object Repository/Amazon_add_to_cart_TC004/Page_Amazon.com AP Chemistry Premium, 2024 _35f007/input_submit.add-to-cart""))",Firefox 122.0,,,30-01-2024 19:23:06,30-01-2024 19:23:20,13.867s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon_add_to_cart_TC004/Page_Amazon.com Shopping Cart/span_Added to Cart""), ""Added to Cart"")",Firefox 122.0,,,30-01-2024 19:23:20,30-01-2024 19:23:20,0.754s,PASSED
+closeBrowser(),Firefox 122.0,,,30-01-2024 19:23:20,30-01-2024 19:23:22,1.648s,PASSED
