@@ -8,7 +8,7 @@
       "proposedLocator": "//span[2]/span/input",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com Shopping Cart/input_submit.delete.8bc2c0f9-b1cf-4a72-854f_3b8889_position.png"
+      "pathToScreenshot": "Reports/20240130_223510/Amazon_delete_item_from_cart_testsuite/Amazon_delete_item_from_cart_TC005_TestSuite/20240130_223510/Object Repository/Amazon_delete_item_from_cart_TC005/Page_Amazon.com Shopping Cart/input_submit.delete.8bc2c0f9-b1cf-4a72-854f_3b8889_position.png"
     }
   ]
 }

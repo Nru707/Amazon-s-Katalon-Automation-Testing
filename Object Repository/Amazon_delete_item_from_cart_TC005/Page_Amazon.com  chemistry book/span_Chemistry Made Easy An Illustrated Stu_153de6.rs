@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chemistry Made Easy An Illustrated Stu_153de6</name>
+   <tag></tag>
+   <elementGuidId>3632f1e7-b1f9-4def-9feb-518aaaf47653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div[2]/div/h2/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bdb1fcc-65ce-42b9-9e55-2e889a31e44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base-plus a-color-base a-text-normal</value>
+      <webElementGuid>b4caeece-f7ed-40ff-81d9-063c4198be49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chemistry Made Easy: An Illustrated Study Guide For Students To Easily Learn Chemistry</value>
+      <webElementGuid>f9b59a57-0472-458f-9332-bce25c1cb0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-4-of-24 sg-col-4-of-12 s-result-item s-asin sg-col-4-of-16 AdHolder sg-col s-widget-spacing-small sg-col-4-of-20&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_2&quot;]/div[@class=&quot;rush-component s-expand-height&quot;]/div[@class=&quot;rush-component s-featured-result-item s-expand-height&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-expand-height puis-include-content-margin puis puis-v2rh3j15wdcp4q29xeaptoa72x6 s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;a-section a-spacing-small puis-padding-left-small puis-padding-right-small&quot;]/div[@class=&quot;a-section a-spacing-none a-spacing-top-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-4&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-base-plus a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>cd3912dd-8a60-4ba7-b177-e4b641a44e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div[2]/div/h2/a/span</value>
+      <webElementGuid>9dd74fe2-2bd8-4a3d-be1a-ea058514f23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span/div/div/div[2]/div/h2/a/span</value>
+      <webElementGuid>0106e279-ddec-4bb7-94d7-54cd8c96a29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chemistry Made Easy: An Illustrated Study Guide For Students To Easily Learn Chemistry' or . = 'Chemistry Made Easy: An Illustrated Study Guide For Students To Easily Learn Chemistry')]</value>
+      <webElementGuid>35b612de-be11-4e4d-84f3-fde4821a60fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

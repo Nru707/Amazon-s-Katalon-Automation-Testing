@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go to Cart</name>
+   <tag></tag>
+   <elementGuidId>ad4b38a4-887a-456d-8bf2-beaaafe30541</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sw-gtc']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sw-gtc > span.a-button-inner > a.a-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>753016d3-db11-4767-b564-d10fa5883577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart?ref_=sw_gtc</value>
+      <webElementGuid>489b57fa-25de-4439-ac6e-e1a53b6757fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-content-id</name>
+      <type>Main</type>
+      <value>sw-gtc_CONTENT</value>
+      <webElementGuid>9f72adcc-0497-4250-a12c-ee81606a568e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-slot-id</name>
+      <type>Main</type>
+      <value>sw-gtc</value>
+      <webElementGuid>de257532-05f2-4c1c-bd8b-69d3b432999d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58ad703e-1fa5-45d6-9820-8faad7ec4a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text</value>
+      <webElementGuid>d82494b1-6c83-4301-af6c-5c9f2c52fb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-id</name>
+      <type>Main</type>
+      <value>8nodfc-a3xzzi-7ze0r3-2iux7g</value>
+      <webElementGuid>8345905e-3d65-41c6-addd-7f6fcabe25f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Go to Cart
+</value>
+      <webElementGuid>14400891-95a3-4d84-a3dc-795701c7bf1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sw-gtc&quot;)/span[@class=&quot;a-button-inner&quot;]/a[@class=&quot;a-button-text&quot;]</value>
+      <webElementGuid>098e1b67-0c8e-4abf-91c6-455bd27b2e67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='sw-gtc']/span/a</value>
+      <webElementGuid>857e1b7e-2a15-4344-94be-bf2ad3c87beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Go to Cart')])[2]</value>
+      <webElementGuid>8e695c57-2878-4de7-815a-6e21ae7d490b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cart?ref_=sw_gtc')]</value>
+      <webElementGuid>58e5e161-0633-4133-b20b-fc90b7402ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/span/span/a</value>
+      <webElementGuid>d1f3e287-bd88-45ad-b80f-d3928cf0c3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart?ref_=sw_gtc' and (text() = '
+    Go to Cart
+' or . = '
+    Go to Cart
+')]</value>
+      <webElementGuid>c0382ccd-d316-430a-a96b-61a1f02add41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
