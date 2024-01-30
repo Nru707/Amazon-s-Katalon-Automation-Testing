@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>Amazon_Test Suite Collection</name>
+   <name>Amazon_Test Suite Collection_TC001</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
