@@ -17,3 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.amazon.com/')
+
+WebUI.setText(findTestObject('Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/input_field-keywords'), 
+    'chemistry book')
+
+WebUI.click(findTestObject('Object Repository/Amazon_item_search_TC003/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button'))
+
+WebUI.closeBrowser()
+
